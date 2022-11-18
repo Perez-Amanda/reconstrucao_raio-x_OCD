@@ -1,3 +1,6 @@
+% testando o algoritmo implementado para
+% o método dos gradientes conjugados
+
 matriz = rand(3,3);
 A_ = matriz'*matriz;
 x0 = [1;1;1];
